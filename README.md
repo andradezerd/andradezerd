@@ -7,7 +7,7 @@
     
 </h1>
 
-<h3 align="center"> 💫 A fullstack developer from Minas Gerais, Brazil 🇧🇷</h3>
+<h3 align="center"> 💫 A full stack developer from Minas Gerais, Brazil 🇧🇷</h3>
 
 <br/>
 
