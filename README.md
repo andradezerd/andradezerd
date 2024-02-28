@@ -7,7 +7,7 @@
     
 </h1>
 
-<h3 align="center"> 💫 A full stack developer from Minas Gerais, Brazil 🇧🇷</h3>
+<h3 align="center"> 💫 A developer from Minas Gerais, Brazil 🇧🇷</h3>
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,ruby,github" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,ruby,github,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=css,html,javascript,typescript,git" />
   </a>
 </div>
